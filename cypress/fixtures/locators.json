@@ -1,0 +1,14 @@
+{
+    "instructionPage": {
+        "instructionP": "p",
+        "instructionBtn": ".btn"
+    },
+
+    "emailBtn" : ".btn",
+    
+    "randomWords": {
+        "wordBtn":".btn",
+        "wordStartBtn": ".btn > span",
+        "wordEndBtn": ".py-4 > .btn"
+    }
+}
